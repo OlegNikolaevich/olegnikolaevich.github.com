@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Любимое место]]></title>
-  <link href="http://OlegNikolaevich.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Категории: Films | Любимое место]]></title>
+  <link href="http://OlegNikolaevich.github.com/blog/kategoriler/films/atom.xml" rel="self"/>
   <link href="http://OlegNikolaevich.github.com/"/>
   <updated>2012-05-31T10:18:46+04:00</updated>
   <id>http://OlegNikolaevich.github.com/</id>
@@ -46,9 +46,9 @@
 <li>Обитель зла 2: Апокалипсис (Resident Evil: Apocalypse) 2004</li>
 <li>Области тьмы (Limitless) 2011</li>
 <li>Остров проклятых (Shutter Island) 2010</li>
-<li>Пираты Карибского моря: На краю света (Pirates of the Caribbean: At World&#8217;s End) 2007</li>
+<li>Пираты Карибского моря: На краю света (Pirates of the Caribbean: At World's End) 2007</li>
 <li>Пираты Карибского моря: Проклятие Чёрной жемчужины (Pirates of the Caribbean: The Curse of The Black Pearl) 2003</li>
-<li>Пираты Карибского моря: Сундук мертвеца (Pirates of the Caribbean: Dead Man&#8217;s Chest) 2006</li>
+<li>Пираты Карибского моря: Сундук мертвеца (Pirates of the Caribbean: Dead Man's Chest) 2006</li>
 <li>Престиж (The Prestige) 2007</li>
 <li>Тёмный рыцарь (The Dark Knight) 2008</li>
 <li>Трон: Наследие (Tron Legacy) 2010 - <code>смотрел в IMAX 3D. Красота виртуальго мира. Самый лучший фильм со звуковым рядом. Восхитительная музыка</code></li>
@@ -71,7 +71,7 @@
 <li>Другой мир 3: Восстание ликанов (Underworld: Rise of the Lycans) 2009</li>
 <li>Как приручить дракона (How to Train Your Dragon) 2010 - <code>+ можно посмотреть хорошее видео от журнала мир фантастики о фильме</code></li>
 <li>Контрабанда (Contraband) 2012</li>
-<li>Легенды ночных стражей (Legend of the Guardians: The Owls of Ga&#8217;Hoole) 2010 - <code>смотрел в кинотеатре в 3D. Красота полётов захватывает дух, мир сов прекрасен</code></li>
+<li>Легенды ночных стражей (Legend of the Guardians: The Owls of Ga'Hoole) 2010 - <code>смотрел в кинотеатре в 3D. Красота полётов захватывает дух, мир сов прекрасен</code></li>
 <li>Линкольн для адвоката (The Lincoln Lawyer) 2011</li>
 <li>Меняющие реальность (The Adjustment Bureau) 2011</li>
 <li>На грани (Man on a Ledge) 2012</li>
@@ -103,7 +103,7 @@
 <li>Большой Стэн (Big Stan) 2007 - <code>хороший фильм для поднятия настроения</code></li>
 <li>В краю крови и меда (In the Land of Blood and Honey) 2011</li>
 <li>Воды слонам (Water for Elephants) 2011</li>
-<li>Возмездие Эрпа (Wyatt Earp&#8217;s Revenge) 2012</li>
+<li>Возмездие Эрпа (Wyatt Earp's Revenge) 2012</li>
 <li>Время (In Time) 2011 - <code>понравилась идея со временем</code></li>
 <li>Голодный кролик атакует (Seeking Justice) 2011</li>
 <li>Девять в списке мертвых (Nine Dead) 2010</li>
@@ -121,7 +121,7 @@
 <li>Кожа, в которой я живу (La piel que habito) 2011</li>
 <li>Копы в глубоком запасе (The Other Guys) 2010</li>
 <li>Кориолан (Coriolanus) 2011 - <code>фильм в стихах, смотриться не очень</code></li>
-<li>Король говорит (The King&#8217;s Speech) 2010 - <code>на любителя</code>
+<li>Король говорит (The King's Speech) 2010 - <code>на любителя</code>
 Косяки (Loosies) 2012 - <code>на раз</code></li>
 <li>Кот в сапогах (Puss in Boots) - <code>говно, даже кинотеатр IMAX 3D не спас</code></li>
 <li>Крутой чувак (Bad Ass) 2011</li>
@@ -138,7 +138,7 @@
 <li>О чём говорят мужчины 2010 - <code>фильм посмотреть можно ради диалогов</code></li>
 <li>Очень плохая училка (Bad Teacher) 2011 - <code>посмотреть можно</code></li>
 <li>Первый мститель (Captain America: The First Avenger) 2011</li>
-<li>Пингвины мистера Поппера (Mr. Popper&#8217;s Penguins) 2011</li>
+<li>Пингвины мистера Поппера (Mr. Popper's Penguins) 2011</li>
 <li>Пипец (Kick-Ass) 2010</li>
 <li>Пираты Карибского моря: На странных берегах (Pirates of the Caribbean: On Stranger Tides) 2011 - <code>в кинотеатре IMAX 3D смотрелось отлично</code></li>
 <li>Площадь Колумба (Columbus Circle) 2012</li>
@@ -160,23 +160,13 @@
 <li>Супер 8 (Super 8) 2011</li>
 <li>Тёмная сторона (La cara oculta) 2011</li>
 <li>Тот еще Карлосон! 2012 - <code>говно</code></li>
-<li>Ученик чародея (The Sorcerer&#8217;s Apprentice) 2010 - <code>красивый фильм</code></li>
+<li>Ученик чародея (The Sorcerer's Apprentice) 2010 - <code>красивый фильм</code></li>
 <li>Учитель на замену (Detachment) 2011</li>
 <li>Ханна. Совершенное оружие (Hanna) 2011 - <code>говно</code></li>
 <li>Хранитель времени (Hugo) 2011 - <code>детская сказочка</code></li>
 <li>Шпион, выйди вон (Tinker, Tailor, Soldier, Spy) 2011</li>
 </ul>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Свершилось]]></title>
-    <link href="http://OlegNikolaevich.github.com/blog/2012/03/15/probnyj-post/"/>
-    <updated>2012-03-15T18:35:00+04:00</updated>
-    <id>http://OlegNikolaevich.github.com/blog/2012/03/15/probnyj-post</id>
-    <content type="html"><![CDATA[<p>Мучения кончились. Наконец то, я смог установить Octopress на windows.
-Для меня незнакомого с программированием задача оказалась довольно сложной.</p>
 ]]></content>
   </entry>
   
