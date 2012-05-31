@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Любимое место.]]></title>
-  <link href="http://OlegNikolaevich.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Категории: Photography | Любимое место.]]></title>
+  <link href="http://OlegNikolaevich.github.com/blog/categories/photography/atom.xml" rel="self"/>
   <link href="http://OlegNikolaevich.github.com/"/>
   <updated>2012-05-31T10:14:17+04:00</updated>
   <id>http://OlegNikolaevich.github.com/</id>
